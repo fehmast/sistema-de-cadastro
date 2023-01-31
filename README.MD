@@ -4,5 +4,5 @@
 
 ```
 
-HTML5 | CSS3
+node app.js
 ```
